@@ -1,6 +1,6 @@
 # gerenciamento-de-cautela-de-itens
 
-Este projeto tem por Gerenciamento de cautela de itens, utilizado para controlar a entrega, devolução e rastreamento de itens sob responsabilidade de colaboradores. Permite o registro detalhado de cautelas, prazos, responsáveis e status dos itens, garantindo maior organização, segurança e transparência no controle patrimonial.
+Este é um projeto de Gerenciamento de cautela de itens, utilizado para controlar a entrega, devolução e rastreamento de itens sob responsabilidade de colaboradores. Permite o registro detalhado de cautelas, prazos, responsáveis e status dos itens, garantindo maior organização, segurança e transparência no controle patrimonial.
 
 O frontend da aplicação foi desenvolvido com Angular e o backend foi simulado pela implementação de uma API Fake, usando o JSON Server.
 
